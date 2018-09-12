@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Diabete_Assistant.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Diabete_Assistant.UWP"
+    RequestedTheme="Light">
+
+</Application>
